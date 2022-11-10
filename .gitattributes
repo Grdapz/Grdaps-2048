@@ -1,4 +1,4 @@
-*.csx linguist-detectable=true  
+*.cake linguist-detectable=true  
 *.shaderlab linguist-detectable=false   
 *.html linguist-detectable=false  
 *.hlsl linguist-detectable=false    
