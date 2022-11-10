@@ -1,4 +1,3 @@
-.CSharp linguist-detectable=true
-.ShaderLab linguist-detectable=false
-.HTML linguist-detectable=false
-.HLSL linguist-detectable=false
+.shaderlab linguist-detectable=false
+.htmllinguist-detectable=false
+.hlsl linguist-detectable=false
