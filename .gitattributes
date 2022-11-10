@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-*.c linguist-language=Java
+*.* linguist-language=C
 *.html linguist-detectable=false
 *.shaderLab linguist-detectable=false
 *.hlsl linguist-detectable=false
